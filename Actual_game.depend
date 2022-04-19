@@ -1,0 +1,307 @@
+# depslib dependency file v1.0
+1576368904 source:c:\users\energykill\desktop\actual game\actual_game\scoring.c
+	"scoring.h"
+	"misc.h"
+
+1576372288 c:\users\energykill\desktop\actual game\actual_game\scoring.h
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+
+1576417283 c:\users\energykill\desktop\actual game\actual_game\misc.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+
+1576373132 source:c:\users\energykill\desktop\actual game\actual_game\statistics.c
+	"statistics.h"
+	"scoring.h"
+	"misc.h"
+
+1576373270 c:\users\energykill\desktop\actual game\actual_game\statistics.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<conio.h>
+
+1576373104 source:c:\users\energykill\desktop\actual game\actual_game\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"printing.h"
+	"statistics.h"
+	"scoring.h"
+	"misc.h"
+
+1576370764 c:\users\energykill\desktop\actual game\actual_game\printing.h
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+
+1576412296 source:c:\users\energykill\desktop\actual game\actual_game\printing.c
+	"printing.h"
+	"misc.h"
+	"scoring.h"
+	"statistics.h"
+
+1576373253 source:c:\users\energykill\desktop\actual game\actual_game\misc.c
+	"misc.h"
+	"scoring.h"
+	"statistics.h"
+
+1576373104 source:c:\users\energykill\desktop\actual game\hangman\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"printing.h"
+	"statistics.h"
+	"scoring.h"
+	"misc.h"
+
+1576370764 c:\users\energykill\desktop\actual game\hangman\printing.h
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+
+1576373270 c:\users\energykill\desktop\actual game\hangman\statistics.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<conio.h>
+
+1576372288 c:\users\energykill\desktop\actual game\hangman\scoring.h
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+
+1576417283 c:\users\energykill\desktop\actual game\hangman\misc.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+
+1576419668 source:c:\users\energykill\desktop\actual game\hangman\misc.c
+	"misc.h"
+	"scoring.h"
+	"statistics.h"
+
+1576412296 source:c:\users\energykill\desktop\actual game\hangman\printing.c
+	"printing.h"
+	"misc.h"
+	"scoring.h"
+	"statistics.h"
+
+1576368904 source:c:\users\energykill\desktop\actual game\hangman\scoring.c
+	"scoring.h"
+	"misc.h"
+
+1576373132 source:c:\users\energykill\desktop\actual game\hangman\statistics.c
+	"statistics.h"
+	"scoring.h"
+	"misc.h"
+
+1576501137 source:c:\users\energykill\desktop\hangman\hangman\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"printing.h"
+	"statistics.h"
+	"scoring.h"
+	"misc.h"
+
+1576370764 c:\users\energykill\desktop\hangman\hangman\printing.h
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+
+1576373270 c:\users\energykill\desktop\hangman\hangman\statistics.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<conio.h>
+
+1576372288 c:\users\energykill\desktop\hangman\hangman\scoring.h
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+
+1576417283 c:\users\energykill\desktop\hangman\hangman\misc.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+
+1576419668 source:c:\users\energykill\desktop\hangman\hangman\misc.c
+	"misc.h"
+	"scoring.h"
+	"statistics.h"
+
+1576439277 source:c:\users\energykill\desktop\hangman\hangman\printing.c
+	"printing.h"
+	"misc.h"
+	"scoring.h"
+	"statistics.h"
+
+1576368904 source:c:\users\energykill\desktop\hangman\hangman\scoring.c
+	"scoring.h"
+	"misc.h"
+
+1576373132 source:c:\users\energykill\desktop\hangman\hangman\statistics.c
+	"statistics.h"
+	"scoring.h"
+	"misc.h"
+
+1576501137 source:c:\users\energykill\documents\rockdock files\files\hangman\hangman\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"printing.h"
+	"statistics.h"
+	"scoring.h"
+	"misc.h"
+
+1576370764 c:\users\energykill\documents\rockdock files\files\hangman\hangman\printing.h
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+
+1576373270 c:\users\energykill\documents\rockdock files\files\hangman\hangman\statistics.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<conio.h>
+
+1576372288 c:\users\energykill\documents\rockdock files\files\hangman\hangman\scoring.h
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+
+1576417283 c:\users\energykill\documents\rockdock files\files\hangman\hangman\misc.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+
+1576419668 source:c:\users\energykill\documents\rockdock files\files\hangman\hangman\misc.c
+	"misc.h"
+	"scoring.h"
+	"statistics.h"
+
+1576439277 source:c:\users\energykill\documents\rockdock files\files\hangman\hangman\printing.c
+	"printing.h"
+	"misc.h"
+	"scoring.h"
+	"statistics.h"
+
+1576368904 source:c:\users\energykill\documents\rockdock files\files\hangman\hangman\scoring.c
+	"scoring.h"
+	"misc.h"
+
+1576373132 source:c:\users\energykill\documents\rockdock files\files\hangman\hangman\statistics.c
+	"statistics.h"
+	"scoring.h"
+	"misc.h"
+
+1576501137 source:c:\users\energykill\documents\rockdock files\files\old\c\hangman\hangman\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"printing.h"
+	"statistics.h"
+	"scoring.h"
+	"misc.h"
+
+1576370764 c:\users\energykill\documents\rockdock files\files\old\c\hangman\hangman\printing.h
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+
+1576373270 c:\users\energykill\documents\rockdock files\files\old\c\hangman\hangman\statistics.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<conio.h>
+
+1576372288 c:\users\energykill\documents\rockdock files\files\old\c\hangman\hangman\scoring.h
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+
+1576417283 c:\users\energykill\documents\rockdock files\files\old\c\hangman\hangman\misc.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+
+1576419668 source:c:\users\energykill\documents\rockdock files\files\old\c\hangman\hangman\misc.c
+	"misc.h"
+	"scoring.h"
+	"statistics.h"
+
+1576439277 source:c:\users\energykill\documents\rockdock files\files\old\c\hangman\hangman\printing.c
+	"printing.h"
+	"misc.h"
+	"scoring.h"
+	"statistics.h"
+
+1576368904 source:c:\users\energykill\documents\rockdock files\files\old\c\hangman\hangman\scoring.c
+	"scoring.h"
+	"misc.h"
+
+1576373132 source:c:\users\energykill\documents\rockdock files\files\old\c\hangman\hangman\statistics.c
+	"statistics.h"
+	"scoring.h"
+	"misc.h"
+
+1576423268 source:d:\faculta\old\c\hangman\hangman\misc.c
+	"misc.h"
+	"scoring.h"
+	"statistics.h"
+
+1576420883 d:\faculta\old\c\hangman\hangman\misc.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+
+1576375888 d:\faculta\old\c\hangman\hangman\scoring.h
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+
+1576376870 d:\faculta\old\c\hangman\hangman\statistics.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<conio.h>
+
+1576442877 source:d:\faculta\old\c\hangman\hangman\printing.c
+	"printing.h"
+	"misc.h"
+	"scoring.h"
+	"statistics.h"
+
+1576374364 d:\faculta\old\c\hangman\hangman\printing.h
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+
+1576372504 source:d:\faculta\old\c\hangman\hangman\scoring.c
+	"scoring.h"
+	"misc.h"
+
+1576376732 source:d:\faculta\old\c\hangman\hangman\statistics.c
+	"statistics.h"
+	"scoring.h"
+	"misc.h"
+
+1650214018 source:d:\faculta\old\c\hangman\hangman\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"printing.h"
+	"statistics.h"
+	"scoring.h"
+	"misc.h"
+
